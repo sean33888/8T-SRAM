@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      yhsuai
+HostName                       ecelvd804.ece.local
+ProcessIdentifier              63724
+ProcessCreationTime_UTC        1740210276
+ProcessCreationTime_Readable   Sat Feb 22 15:44:36 2025 HKT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /dfs/usrhome/yhsuai/elec4410/FYP_myLib/sram_16_to_256_rowdecoder/layout/layout.oa.cdslck
+TimeEditLocked                 Sun Feb 23 01:15:21 2025 HKT

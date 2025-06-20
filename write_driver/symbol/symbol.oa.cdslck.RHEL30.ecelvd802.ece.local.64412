@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      kjyu
+HostName                       ecelvd802.ece.local
+ProcessIdentifier              64412
+ProcessCreationTime_UTC        1705739519
+ProcessCreationTime_Readable   Sat Jan 20 16:31:59 2024 HKT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /dfs/usrhome/kjyu/elec4410/FYP_myLib/write_driver/symbol/symbol.oa.cdslck
+TimeEditLocked                 Sat Jan 20 17:12:54 2024 HKT
